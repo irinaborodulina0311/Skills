@@ -1,0 +1,16 @@
+{
+  "person": {
+    "u_age": 38, 
+    "u_name": [
+      "Irvasborodulina", 
+      2000, 
+      38
+    ], 
+    "u_salary_5_years": 8400.0
+  }, 
+  "qa_salary_after_1.5_year": 6600.0, 
+  "qa_salary_after_12_months": 5400.0, 
+  "qa_salary_after_3.5_years": 7600.0, 
+  "qa_salary_after_6_months": 4000, 
+  "start_qa_salary": 2000
+}

@@ -1,0 +1,9 @@
+{
+  "age": 38, 
+  "name": "Irvasborodulina", 
+  "salary": [
+    2000, 
+    "4000", 
+    "6000"
+  ]
+}
